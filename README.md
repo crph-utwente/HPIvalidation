@@ -1,7 +1,7 @@
 ## Introduction
 This is the accompanying analysis code for the article *'The Hypotension Prediction Index is equally effective in predicting intraoperative hypotension during non-cardiac surgery compared to a mean arterial pressure threshold: a prospective observational study.'*
 
-When using (part of) this code, please cite the acompanying article: "Marijn P. Mulder; The Hypotension Prediction Index is equally effective in predicting intraoperative hypotension during non-cardiac surgery compared to a mean arterial pressure threshold: a prospective observational study, Anesthesiology April 2024, [doi](https://doi.org/10.1097/ALN.0000000000004990)."
+When using (part of) this code, please cite the acompanying article: "Marijn P. Mulder; The Hypotension Prediction Index is equally effective in predicting intraoperative hypotension during non-cardiac surgery compared to a mean arterial pressure threshold: a prospective observational study, Anesthesiology April 2024, https://doi.org/10.1097/ALN.0000000000004990."
 
 Abbreviations:
 - AUT:      area under the treshold
