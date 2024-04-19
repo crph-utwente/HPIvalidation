@@ -21,7 +21,20 @@ This repository contains the following files:
 - `main_analysis_notebook.ipynb` : Jupyter Notebook where each analysis step is documented for one individual patient. Anonymized example data is provided in the file `input_data/example_patient.xls`
 
 
-The specific requirements to run this script are listed in the file `requirements.txt`. This can be installed to your local Python environment by running:
+The specific requirements to run this script are listed in the file `requirements.txt`. This can be installed to your local Python environment. Optionally, you can create a local environment to avoid conflicting package installations.
+On Windows:
+```
+python -m venv my_env_name
+my_env_name\Scripts\activate.bat  
+```
+On Linux/OSx:
+
+```
+python -m venv my_env_name
+source my_env_name/bin/activate
+```
+
+Then install the requirements in the local environment:
 ```
 pip install -r requirements.txt
 ```
