@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 import os
 from datetime import datetime
-from sklearn.metrics import roc_curve, auc, precision_recall_curve, average_precision_score
 
 def analyse_data(dataframe, identifier, surgery_start_time, surgery_end_time):
     print(f'Analysing {identifier}')
